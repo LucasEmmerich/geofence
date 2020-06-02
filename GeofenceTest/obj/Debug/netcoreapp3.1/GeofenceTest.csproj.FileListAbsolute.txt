@@ -1,0 +1,14 @@
+C:\dev\projetos\Geofence\GeofenceTest\bin\Debug\netcoreapp3.1\GeofenceTest.exe
+C:\dev\projetos\Geofence\GeofenceTest\bin\Debug\netcoreapp3.1\GeofenceTest.deps.json
+C:\dev\projetos\Geofence\GeofenceTest\bin\Debug\netcoreapp3.1\GeofenceTest.runtimeconfig.json
+C:\dev\projetos\Geofence\GeofenceTest\bin\Debug\netcoreapp3.1\GeofenceTest.runtimeconfig.dev.json
+C:\dev\projetos\Geofence\GeofenceTest\bin\Debug\netcoreapp3.1\GeofenceTest.dll
+C:\dev\projetos\Geofence\GeofenceTest\bin\Debug\netcoreapp3.1\GeofenceTest.pdb
+C:\dev\projetos\Geofence\GeofenceTest\bin\Debug\netcoreapp3.1\Geofence.dll
+C:\dev\projetos\Geofence\GeofenceTest\bin\Debug\netcoreapp3.1\Geofence.pdb
+C:\dev\projetos\Geofence\GeofenceTest\obj\Debug\netcoreapp3.1\GeofenceTest.csprojAssemblyReference.cache
+C:\dev\projetos\Geofence\GeofenceTest\obj\Debug\netcoreapp3.1\GeofenceTest.AssemblyInfoInputs.cache
+C:\dev\projetos\Geofence\GeofenceTest\obj\Debug\netcoreapp3.1\GeofenceTest.AssemblyInfo.cs
+C:\dev\projetos\Geofence\GeofenceTest\obj\Debug\netcoreapp3.1\GeofenceTest.csproj.CopyComplete
+C:\dev\projetos\Geofence\GeofenceTest\obj\Debug\netcoreapp3.1\GeofenceTest.dll
+C:\dev\projetos\Geofence\GeofenceTest\obj\Debug\netcoreapp3.1\GeofenceTest.pdb

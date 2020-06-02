@@ -1,0 +1,8 @@
+C:\dev\projetos\Geofence\Geofence\bin\Debug\netstandard2.0\Geofence.deps.json
+C:\dev\projetos\Geofence\Geofence\bin\Debug\netstandard2.0\Geofence.dll
+C:\dev\projetos\Geofence\Geofence\bin\Debug\netstandard2.0\Geofence.pdb
+C:\dev\projetos\Geofence\Geofence\obj\Debug\netstandard2.0\Geofence.csprojAssemblyReference.cache
+C:\dev\projetos\Geofence\Geofence\obj\Debug\netstandard2.0\Geofence.AssemblyInfoInputs.cache
+C:\dev\projetos\Geofence\Geofence\obj\Debug\netstandard2.0\Geofence.AssemblyInfo.cs
+C:\dev\projetos\Geofence\Geofence\obj\Debug\netstandard2.0\Geofence.dll
+C:\dev\projetos\Geofence\Geofence\obj\Debug\netstandard2.0\Geofence.pdb

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "GeofenceTest/1.0.0": {
+        "dependencies": {
+          "Geofence": "1.0.0"
+        },
+        "runtime": {
+          "GeofenceTest.dll": {}
+        }
+      },
+      "Geofence/1.0.0": {
+        "runtime": {
+          "Geofence.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GeofenceTest/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Geofence/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
